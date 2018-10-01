@@ -2,6 +2,7 @@
 
 Temporary deprecation:
 ======================
+https://www.youtube.com/watch?v=3vEn5vFg0vo&list=LL1WIMz0VN_LMDyU8O0fVL8Q&index=4&t=0s
 
 wow.js is temporarily deprecated in favour of AOS (Animate on Scroll). Feel free to ignore the warning if you can't use AOS.
 
